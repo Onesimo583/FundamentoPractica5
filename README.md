@@ -1,4 +1,4 @@
- Práctica 6 - Curso de Frontend
+ Práctica 5 - Curso de Frontend
 
 Este proyecto fue realizado como parte de una actividad del curso de Frontend. El objetivo es crear elementos de HTML que usen propiedades de CSS relacionadas con el tema de la alineación de elementos usando Flexbox.
 ## Archivos del Proyecto
